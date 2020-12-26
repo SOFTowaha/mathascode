@@ -1,6 +1,6 @@
 # math-as-code
 
->[Python version (English)](./PYTHON-README.md)
+>[Python version (English)](./python_version.md)
 
 This is a reference to ease developers into mathematical notation by showing comparisons with JavaScript code.
 
